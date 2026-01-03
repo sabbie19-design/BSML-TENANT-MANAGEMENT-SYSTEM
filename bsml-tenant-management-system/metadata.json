@@ -1,0 +1,5 @@
+{
+  "name": "BSML Tenant Management System",
+  "description": "A comprehensive HOA management platform for BSML, featuring property hierarchy, billing, maintenance tracking, and resident directories for 7 clusters and 15 buildings.",
+  "requestFramePermissions": []
+}
